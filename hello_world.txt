@@ -1,0 +1,3 @@
+Hey, my name is Stephanie.
+I'm learning how to use the Terminal and VSCode.
+Pretty cool, if you ask me!
